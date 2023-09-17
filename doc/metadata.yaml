@@ -1,4 +1,4 @@
-description: null
+description: The module allows ISP programming of AVR uControllers.
 github_branch: ATprogISPUSB01A
 github_repo: ATprogISPUSB01
 github_url: https://github.com/mlab-modules/ATprogISPUSB01
